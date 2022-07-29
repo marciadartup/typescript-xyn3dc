@@ -1,0 +1,16 @@
+h1, h2 {
+  font-family: Lato;
+}
+input {
+  background: pink;
+  width: 70px;
+  height: 50px;
+  border-radius: 40%;
+  
+}
+body {
+  line-height: center;
+  
+  text-align: center;
+  
+}
