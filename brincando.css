@@ -1,0 +1,35 @@
+h1, h2 {
+  font-family: Lato;
+  background: blueviolet;
+  width: 300px;
+  height: 100px;
+  border-radius: 30%;
+  text-decoration: solid;
+  text-align: center;
+  margin-top: auto;
+}
+input {
+  background: pink;
+  width: 70px;
+  height: 50px;
+  border-radius: 40%;
+  
+}
+body {
+  line-height: center;
+  
+  text-align: center;
+  
+}
+li {
+
+  direction: ltr;
+  background-color: blue;
+  border: 3px;
+  flex: auto;
+
+}
+#id_div1 {
+  border-left: 30px;
+  background-color: blueviolet;
+}

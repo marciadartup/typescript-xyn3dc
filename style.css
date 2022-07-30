@@ -1,4 +1,4 @@
-h1, h2 {
+h1 {
   font-family: Lato;
   background: blueviolet;
   width: 300px;
@@ -8,28 +8,13 @@ h1, h2 {
   text-align: center;
   margin-top: auto;
 }
-input {
-  background: pink;
-  width: 70px;
-  height: 50px;
-  border-radius: 40%;
-  
-}
-body {
-  line-height: center;
-  
+
+h2 {
   text-align: center;
-  
+  color: black;
 }
-li {
+p {
+color: red;
+text-align: center;
 
-  direction: ltr;
-  background-color: blue;
-  border: 3px;
-  flex: auto;
-
-}
-#id_div1 {
-  border-left: 30px;
-  background-color: blueviolet;
 }
